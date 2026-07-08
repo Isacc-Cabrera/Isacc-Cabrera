@@ -46,5 +46,5 @@ Actualmente en ruta hacia **Data Scientist** y **Android Developer**.
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isacc%20Cabrera-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/angel-isacc-cabrera-leal-a5962b398)
-[![Email](https://img.shields.io/badge/Email-angel.cabrera.leal%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cabrera.angel.isacc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isacc%20Cabrera-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/inio/badge/Email-angel.cabrer/www.linkedin.com/in/isacc-cabrera-a5962b398)
+[![Email](https://img.shields.a.leal%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cabrera.angel.isacc@gmail.com)
