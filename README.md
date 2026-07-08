@@ -31,7 +31,7 @@ Actualmente en ruta hacia **Data Scientist** y **Android Developer**.
 
 | Proyecto | Descripción | Tech |
 |---|---|---|
-| | Web app serverless que replica modelo Power BI de rotación de personal con auth por roles | React · Node.js · Google OAuth · Netlify |
+| Rotacion Laboral | Web app serverless que replica modelo Power BI de rotación de personal con auth por roles | React · Node.js · Google OAuth · Netlify |
 | GreenSip | App móvil de sostenibilidad: termos reutilizables + sistema de recompensas por QR | React Native · Expo |
 
 ---
